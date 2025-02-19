@@ -12,6 +12,7 @@ Este proyecto está construido con las siguientes tecnologías:
     CSS: Estilos y diseño responsivo.
     JavaScript: Interactividad y dinámicas en el sitio.
     GitHub Pages: Hosting gratuito para el portafolio.
+    SASS: 
 
 Características
 
@@ -19,3 +20,4 @@ Características
     Sección de proyectos destacados con descripciones y enlaces.
     Información sobre habilidades técnicas.
     Formulario de contacto para posibles colaboraciones.
+    Metodologia CSS utilizada: BEM
